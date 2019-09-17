@@ -1,0 +1,15 @@
+{
+  "name": "exemplo-whattsapp",
+  "version": "0.0.0",
+  "description": "exemplo funcionamento de whatsapp",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^34.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.1.tar.gz",
+    "react-navigation": "3.11.0",
+    "react-native-paper": "2.15.2"
+  }
+}
